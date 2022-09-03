@@ -1,0 +1,17 @@
+{
+    "name": "ecommerce/cart",
+    "description": "shopping cart",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cart\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "developertimi",
+            "email": "96679357+developertimi@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
